@@ -9,7 +9,7 @@ def divide(a,b):
         return "Invalid Value!!"
     return round(a / b, 2)
 def showmenu():
-      print("Choose A Number In : 1-6")
+      print("Choose A Number In : 1-7")
       print("for Tutorial Choose : 5")
       print("Exit! : 6")
 def Tutorial():
